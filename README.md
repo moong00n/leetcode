@@ -19,7 +19,7 @@
 | 번호 | 제목 | 난이도 | 태그 | 풀이 링크 |
 |------|------|--------|------|------------|
 | 2390 | Removing Stars From a String | Medium | Stack, String | [풀이](./2390_removing_stars_from_strings) |
-
+| N/A | Bit Manipulation Basics | N/A | Bit Manipulation | [링크](./bit_manipulation_basics) |
 
 ## 라이선스 (License)
 이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](./LICENSE) 파일을 참조하세요.
