@@ -21,7 +21,7 @@ function solution(s) {
   return stack.join("");
 }
 
-describe('Remove stars from string', () => {
+describe("Remove stars from string", () => {
   testCases.forEach(({ input, expected }) => {
     it(`"${input}" should return "${expected}"`, () => {
       assert.strictEqual(solution(input), expected);
