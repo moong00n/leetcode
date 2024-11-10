@@ -38,10 +38,10 @@ func countBits(n int) int {
 
 func main() {
 
-	fmt.Println(BitwiseAdd(5, 10))
-	fmt.Println(BitwiseAbs(-150))
-	fmt.Println(isOdd(15))
-	fmt.Println(isPowerOfTwo(200))
-	fmt.Println(countBits(7))
+	fmt.Println(BitwiseAdd(5, 3)) // 8
+	fmt.Println(BitwiseAbs(-5))   // 5
+	fmt.Println(isOdd(15))        // true
+	fmt.Println(isPowerOfTwo(8))  // true
+	fmt.Println(countBits(7))     // 3
 
 }
